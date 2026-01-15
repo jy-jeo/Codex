@@ -58,7 +58,7 @@ a python discord bot with Markov chain responses, slots, and more
 - Sentences become more amusing overtime as Codex "learns" more words.
 
 ## Preview
-[![codex-chatbot.png](https://i.imgur.com/GsFqPu8.gif)](https://imgur.com/a/VX450os)
+![codex-chatbot.png](https://github.com/user-attachments/assets/e92fdc09-5167-44a7-aa74-7babb9895e37)
 
 ## Dev Environment Setup
 - Run `dev_setup.py`
